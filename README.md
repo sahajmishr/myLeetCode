@@ -8,18 +8,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/sahajmishr/myLeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahajmishr/myLeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -37,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahajmishr/myLeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
