@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahajmishr/myLeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahajmishr/myLeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
