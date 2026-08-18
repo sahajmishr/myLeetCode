@@ -13,14 +13,14 @@ public:
         for (int i = 1; i < ins.size(); i++) {
             if (ins[i][0] <= e) {
                 e = max(e, ins[i][1]);
-                
+
             } else {
-                ots.push_back({s, e});
+                ots.emplace_back(vector<int>{s, e});
                 s = ins[i][0];
                 e = ins[i][1];
             }
         }
-        ots.push_back({s, e});
+        ots.emplace_back(vector<int>{s, e});
         return ots;
     }
 };
