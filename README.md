@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahajmishr/myLeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sahajmishr/myLeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahajmishr/myLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajmishr/myLeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sahajmishr/myLeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sahajmishr/myLeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -117,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahajmishr/myLeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
