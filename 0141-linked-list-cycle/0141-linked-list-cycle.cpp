@@ -15,10 +15,10 @@ public:
       // i learned tortoise method ... using a slow and a fast okay now i can figure out how i could have used it in middle element ..striver  you are a genius bro really ....
       ListNode* slow = head ;
       ListNode* fast = head ;
-      while(fast!= nullptr &&fast->next != nullptr){
+      while(fast&&fast->next){
         slow = slow->next ;
         fast = fast->next->next ;
-        
+
         if(slow == fast) return true ;
             
         
