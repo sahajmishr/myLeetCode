@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahajmishr/myLeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sahajmishr/myLeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahajmishr/myLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sahajmishr/myLeetCode/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
