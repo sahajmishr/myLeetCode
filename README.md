@@ -247,9 +247,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sahajmishr/myLeetCode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
