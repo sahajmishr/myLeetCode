@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sahajmishr/myLeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sahajmishr/myLeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sahajmishr/myLeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sahajmishr/myLeetCode/tree/master/0875-koko-eating-bananas) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahajmishr/myLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahajmishr/myLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajmishr/myLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahajmishr/myLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajmishr/myLeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
