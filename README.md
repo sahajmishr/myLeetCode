@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahajmishr/myLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sahajmishr/myLeetCode/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahajmishr/myLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahajmishr/myLeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahajmishr/myLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sahajmishr/myLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahajmishr/myLeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahajmishr/myLeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sahajmishr/myLeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sahajmishr/myLeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahajmishr/myLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
