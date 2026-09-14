@@ -1,38 +1,23 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-         int maxlen = 0;
-        
-       // copied from striver .... i am ashamed 
-        int lastfruit = -1, secondlastfruit = -1;
-        
-        
-        int currcount = 0, lastfruitstreak = 0;
+     // last time time i copoied from striver and as i said i will come back and i am a kan of my word i came nback and now i am gonna keep my promise ...solved it on my own wit proper understanding ....
 
-      
-        for (int fruit : fruits) {
-            
-            
-            if (fruit == lastfruit || fruit == secondlastfruit) {
-                currcount++;
-            } else {
-               
-                currcount = lastfruitstreak + 1;
-            }
-
-          
-            if (fruit == lastfruit) {
-                lastfruitstreak++;
-            } else {
-                lastfruitstreak = 1;
-                secondlastfruit = lastfruit;
-                lastfruit = fruit;
-            }
-
-          
-            maxlen = max(maxlen, currcount);
-        }
-
-        return maxlen;
+     int n = fruits.size();
+     int r = 0 , l = 0 , maxlen = 0 ;
+     map<int,int> mpp ;
+     while(r<n){
+       mpp[fruits[r]]++;
+       if(mpp.size()>2){
+        mpp[fruits[l]]--;
+        if(mpp[fruits[l]]==0) mpp.erase(fruits[l]);
+        l++ ;
+       }
+       if(mpp.size()<= 2){
+       maxlen = max(maxlen , r-l+1);
+       }
+       r++;
+     }
+     return maxlen ;   
     }
 };
