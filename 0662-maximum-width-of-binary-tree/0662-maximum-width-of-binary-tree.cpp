@@ -11,39 +11,33 @@
  */
 class Solution {
 public:
-// have to repeat it yrr i am swelling ...
-     int widthOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
-        
-        unsigned long long max_width = 0;
-        queue<pair<TreeNode*, unsigned long long>> q;
-        q.push({root, 0});
-        
-        while (!q.empty()) {
-            int level_size = q.size();
-            unsigned long long first_index = q.front().second;
-            unsigned long long current_first = 0, current_last = 0;
-            
-            for (int i = 0; i < level_size; ++i) {
-                auto [node, index] = q.front();
-                q.pop();
-                
-                unsigned long long normalized_index = index - first_index;
-                
-                if (i == 0) current_first = normalized_index;
-                if (i == level_size - 1) current_last = normalized_index;
-                
-                if (node->left) {
-                    q.push({node->left, 2 * normalized_index});
-                }
-                if (node->right) {
-                    q.push({node->right, 2 * normalized_index + 1});
-                }
-            }
-            
-            max_width = max(max_width, current_last - current_first + 1);
-        }
-        
-        return max_width;
+    int widthOfBinaryTree(TreeNode* root) {
+      // came back for repeating mate ..   
+      queue <pair<TreeNode* , int >> q ;
+      int ans ;
+      if(!root) return 0 ;
+      int mmin ;
+      q.push({root ,0 });
+      while(!q.empty()){
+       int s = q.size();
+       int first , last ;
+       mmin = q.front().second ;
+       for(int i = 0 ; i< s ; i++){
+        unsigned long long  curr_id = q.front().second - mmin ;
+        TreeNode* node = q.front().first ;
+        q.pop();
+        if(i==0) first = curr_id ;
+        if(i== s-1 ) last = curr_id;
+
+        if(node-> left ) q.push({node->left , curr_id*2+1});
+        if(node->right) q.push({node->right , curr_id*2+2});
+
+       
+
+       }
+        ans = max(ans , last-first+1);
+
+      }
+      return ans ;
     }
 };
