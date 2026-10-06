@@ -9,40 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-   class Solution {
-public: // have to return back with morris traversal .. i will come back tommorw mate
+class Solution {
+public:// yeah smashed with morris bhai ... heheehehhheehhehe
     int kthSmallest(TreeNode* root, int k) {
-        int count = 0;
-        int result = -1;
-        TreeNode* curr = root;
+     TreeNode* curr = root ;
+       int kt = 0;
+       while(curr!= NULL ){
+        if(curr->left == nullptr){
+             kt++ ;
+             if(kt == k ) return curr->val ;
+            curr = curr->right ;
+           
 
-        while (curr) {
-            if (!curr->left) {
-                count++;
-                if (count == k) {
-                    result = curr->val;
-                }
-                curr = curr->right;
-            } else {
-                TreeNode* prev = curr->left;
-                while (prev->right && prev->right != curr) {
-                    prev = prev->right;
-                }
+        }else{
+            TreeNode* temp = curr->left ;
+            TreeNode* leftchild = curr->left ;
+            while(leftchild->right != nullptr ){
+                leftchild = leftchild->right;
 
-                if (!prev->right) {
-                    prev->right = curr;
-                    curr = curr->left;
-                } else {
-                    prev->right = nullptr;
-                    count++;
-                    if (count == k) {
-                        result = curr->val;
-                    }
-                    curr = curr->right;
-                }
             }
+            leftchild->right = curr ;
+            curr->left = nullptr;
+            curr = temp ;
+
         }
-        return result;
+       } 
+       return curr->val ;
     }
 };
