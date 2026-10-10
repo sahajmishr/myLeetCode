@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahajmishr/myLeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sahajmishr/myLeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sahajmishr/myLeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sahajmishr/myLeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sahajmishr/myLeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sahajmishr/myLeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sahajmishr/myLeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahajmishr/myLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sahajmishr/myLeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahajmishr/myLeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sahajmishr/myLeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/sahajmishr/myLeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sahajmishr/myLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahajmishr/myLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
