@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahajmishr/myLeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sahajmishr/myLeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sahajmishr/myLeetCode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahajmishr/myLeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahajmishr/myLeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sahajmishr/myLeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sahajmishr/myLeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sahajmishr/myLeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sahajmishr/myLeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sahajmishr/myLeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahajmishr/myLeetCode/tree/master/0268-missing-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahajmishr/myLeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sahajmishr/myLeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sahajmishr/myLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sahajmishr/myLeetCode/tree/master/0231-power-of-two) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sahajmishr/myLeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sahajmishr/myLeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/sahajmishr/myLeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sahajmishr/myLeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sahajmishr/myLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sahajmishr/myLeetCode/tree/master/0205-isomorphic-strings) |
