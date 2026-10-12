@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahajmishr/myLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sahajmishr/myLeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahajmishr/myLeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahajmishr/myLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahajmishr/myLeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahajmishr/myLeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahajmishr/myLeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sahajmishr/myLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahajmishr/myLeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sahajmishr/myLeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sahajmishr/myLeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahajmishr/myLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahajmishr/myLeetCode/tree/master/0239-sliding-window-maximum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
