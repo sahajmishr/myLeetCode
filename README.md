@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahajmishr/myLeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahajmishr/myLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahajmishr/myLeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/sahajmishr/myLeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahajmishr/myLeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sahajmishr/myLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahajmishr/myLeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahajmishr/myLeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahajmishr/myLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/sahajmishr/myLeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahajmishr/myLeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahajmishr/myLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahajmishr/myLeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/sahajmishr/myLeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
