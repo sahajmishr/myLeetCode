@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/sahajmishr/myLeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sahajmishr/myLeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sahajmishr/myLeetCode/tree/master/0860-lemonade-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sahajmishr/myLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahajmishr/myLeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahajmishr/myLeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahajmishr/myLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sahajmishr/myLeetCode/tree/master/0904-fruit-into-baskets) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sahajmishr/myLeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sahajmishr/myLeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/sahajmishr/myLeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahajmishr/myLeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahajmishr/myLeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sahajmishr/myLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sahajmishr/myLeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahajmishr/myLeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sahajmishr/myLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahajmishr/myLeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sahajmishr/myLeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sahajmishr/myLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajmishr/myLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahajmishr/myLeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/sahajmishr/myLeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sahajmishr/myLeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahajmishr/myLeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
