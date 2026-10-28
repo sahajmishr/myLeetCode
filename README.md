@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sahajmishr/myLeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahajmishr/myLeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahajmishr/myLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/sahajmishr/myLeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sahajmishr/myLeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahajmishr/myLeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahajmishr/myLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahajmishr/myLeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sahajmishr/myLeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sahajmishr/myLeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/sahajmishr/myLeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sahajmishr/myLeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sahajmishr/myLeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sahajmishr/myLeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sahajmishr/myLeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahajmishr/myLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/sahajmishr/myLeetCode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/sahajmishr/myLeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sahajmishr/myLeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahajmishr/myLeetCode/tree/master/0207-course-schedule) |
@@ -702,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/sahajmishr/myLeetCode/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sahajmishr/myLeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
