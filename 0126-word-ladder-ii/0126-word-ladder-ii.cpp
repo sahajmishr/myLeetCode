@@ -1,5 +1,6 @@
 class Solution {
 public: // doing for teh cause ...
+// haahh what to do what not to do . no idea i am dying but i am living this death .
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
         vector<vector<string>> ans;
         unordered_set<string> dict(wordList.begin(), wordList.end());
